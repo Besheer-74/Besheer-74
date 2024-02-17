@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **besheer.walid74@gmail.com**
 
-- ⚡ Fun fact **I love this emojis 🤙💀**
+- ⚡ Fun fact **I love these emojis 🤙💀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
