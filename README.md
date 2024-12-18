@@ -11,6 +11,9 @@
 
 - ⚡ Fun fact **I love these emojis 🤙💀**
 
+![Besheer's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Besheer-74&show%20icons=true&theme=radical)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/walid-yehia-besheer-2527b3235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walid yehia besheer" height="30" width="40" /></a>
