@@ -1,8 +1,6 @@
 <h1 align="center">Hi 🤙, I'm Walid Besheer💀</h1>
 <h3 align="center">Student At P-Tech model</h3>
 
-- 🏫 I'm currently Student at [I-Tech School](https://www.facebook.com/profile.php?id=100064726391359)
-
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Java , Flutter**
@@ -11,7 +9,9 @@
 
 - ⚡ Fun fact **I love these emojis 🤙💀**
 
-![Besheer's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Besheer-74&show%20icons=true&theme=radical)
+## 📊 GitHub stats:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Besheer-74&label=Profile%20views&color=b40eaf&style=plastic" alt="Besheer" /> </p>
+![](https://github-readme-stats.vercel.app/api?username=Besheer-74&theme=radical&hide_border=false&include_all_commits=true&count_private=false)(https://github-readme-stats.vercel.app/api/top-langs/?username=Besheer-74&show%20icons=true&theme=radical)
 
 
 <h3 align="left">Connect with me:</h3>
