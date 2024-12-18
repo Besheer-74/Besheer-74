@@ -21,6 +21,7 @@
 <a href="https://www.linkedin.com/in/walid-yehia-besheer-2527b3235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walid yehia besheer" height="30" width="40" /></a>
 <a href="https://instagram.com/walid.besheer_74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="walid.besheer_74" height="30" width="40" /></a>
 <a href="https://www.facebook.com/walidy.besheer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="walid yehia besheer" height="30" width="40" /></a>
+<a href="https://x.com/WalidBesheer74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="walid yehia besheer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
