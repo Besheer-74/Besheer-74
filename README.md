@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🤙, I'm Walid Besheer💀</h1>
-<h3 align="center">Student At P-Tech model</h3>
+<h3 align="center">Flutter Developer</h3>
 
 ## 📊 GitHub stats:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Besheer-74&label=Profile%20views&color=b40eaf&style=plastic" alt="Besheer" /> </p>
@@ -7,9 +7,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=Besheer-74&theme=radical&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Besheer-74&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 💁 About me:
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently Working as **Flutter Developer**
 
-- 💬 Ask me about **Java , Flutter**
+- 💬 Ask me about **Flutter , web , java**
 
 - 📫 How to reach me **besheer.walid74@gmail.com**
 
